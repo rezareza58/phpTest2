@@ -1,0 +1,13 @@
+{
+    "name": "etudiant/php-test2",
+    "description": "test2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rezareza58",
+            "email": "r.r.moghadam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
